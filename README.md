@@ -21,6 +21,32 @@ Nesse desafio, você deve criar uma aplicação para treinar o que você aprende
 
 Agora você deve continuar desenvolvendo a aplicação que irá armazenar repositórios do seu portfólio, que você já desenvolveu o backend no último desafio utilizando o Node.js.
 
+## :key: Como rodar esse projeto.
+
+### :sheep: Clonando o repositório.
+```
+# Clone este repositório
+$ git clone https://github.com/LuizSerra/GoStack-ConceitosReactJS.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd goStack-conceitosReactjs
+```
+### :computer: Rodando a aplicação.
+
+```
+# Instale as dependências
+$ yarn
+
+# Execute a Aplicação
+$ $ yarn start
+
+# Execute o teste da Aplicação
+$ yarn test
+
+# O servidor inciará na porta:3333 - acesse http://localhost:3333
+```
+
+
 ### Funcionalidades da aplicação
 
 Agora que você já está com o template clonado, e pronto para continuar, você deve abrir o arquivo **src/App.js**, e completar onde não possui código com o código para atingir os objetivos de cada funcionalidade.
@@ -43,15 +69,21 @@ Para esse desafio temos os seguintes testes:
 
 - **`should be able to remove repository`**: Para que esse teste passe, sua aplicação deve permitir que ao clicar no botão de remover que vai estar dentro da `LI` do repositório adicionado, o item seja removido da listagem.
 
-## :calendar: Entrega
 
-Esse desafio deve ser entregue a partir da plataforma Skylab, envie o link do repositório que você fez suas alterações. Após concluir o desafio, fazer um post no Linkedin e postar o código no Github é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
+## :computer: Quer contribuir com o Projeto? Saiba como:
+
+-   Faça um  **fork**  do projeto;
+-   Crie uma nova branch com as suas alterações:  `git checkout -b my-feature`
+-   Salve as alterações e crie uma mensagem de commit contando o que você fez:`git commit -m "feature: My new feature"`
+-   Envie as suas alterações:  `git push origin my-feature`
+
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
+
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
+Feito com dedicação por Luiz Serra 👋🏽 [Entre em contato](https://www.linkedin.com/in/luizserra)!
 
-Feito com 💜 by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
 
