@@ -23,6 +23,16 @@ Agora você deve continuar desenvolvendo a aplicação que irá armazenar reposi
 
 ## :key: Como rodar esse projeto.
 
+Para clonar e executar este aplicativo, você precisará de  [Git](https://git-scm.com/),  [NodeJs](https://nodejs.org/)  Instalado em seu computador.
+
+O projeto é composto por duas aplicações:
+
+1.  Back-End ([Link do Repositório](https://github.com/LuizSerra/GoStack-ConceitosNodeJS))
+
+💡  E preciso efetuar o clone e seguir os passos de instalação do  [Repositório da API]([https://github.com/LuizSerra/GoStack-ConceitosNodeJS](https://github.com/LuizSerra/GoStack-ConceitosNodeJS))
+
+💡 A aplicação precisa que o Back-End esteja sendo executado na porta 3333 para funcionar.
+
 ### :sheep: Clonando o repositório.
 ```
 # Clone este repositório
