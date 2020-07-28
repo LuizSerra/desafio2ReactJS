@@ -29,7 +29,7 @@ Agora você deve continuar desenvolvendo a aplicação que irá armazenar reposi
 $ git clone https://github.com/LuizSerra/GoStack-ConceitosReactJS.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd goStack-conceitosReactjs
+$ cd goStack-conceitosReactJS
 ```
 ### :computer: Rodando a aplicação.
 
